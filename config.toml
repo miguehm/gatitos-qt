@@ -1,4 +1,4 @@
-aseURL = 'https://github.com/miguehm/gatitos-qt'
+baseURL = 'https://miguehm.github.io/gatitos-qt/'
 languageCode = 'en-us'
 title = 'Mi primer ejemplo con hugo'
 theme = 'ananke'
