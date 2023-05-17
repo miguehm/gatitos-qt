@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-mx'
+title = 'Mi primer ejemplo con hugo'
+theme = 'ananke'
