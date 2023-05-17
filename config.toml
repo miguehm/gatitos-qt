@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/miguehm/gatitos-qt'
 languageCode = 'es-mx'
 title = 'Mi primer ejemplo con hugo'
 theme = 'ananke'
