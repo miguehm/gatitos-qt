@@ -6,7 +6,7 @@ draft: false
 
 ## Nuevo Post
 
-![uwu](/cat.jpg)
+![uwu](cats/cat.jpg)
 
 Este es mi primer post en la plataforma.
 
