@@ -1,5 +1,5 @@
-baseURL = 'https://github.com/miguehm/gatitos-qt'
-languageCode = 'es-mx'
+aseURL = 'https://github.com/miguehm/gatitos-qt'
+languageCode = 'en-us'
 title = 'Mi primer ejemplo con hugo'
 theme = 'ananke'
 canonifyURLs = true
