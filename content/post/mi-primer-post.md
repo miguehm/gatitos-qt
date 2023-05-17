@@ -10,4 +10,6 @@ draft: false
 
 Este es mi primer post en la plataforma.
 
+xd
+
 Este es mi [perfil github](https://github.com/miguehm)
