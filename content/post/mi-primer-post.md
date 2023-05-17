@@ -1,7 +1,7 @@
 ---
 title: "Mi Primer Post"
 date: 2023-05-16T17:54:40-06:00
-draft: true
+draft: false
 ---
 
 ## Nuevo Post
